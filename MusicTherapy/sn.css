@@ -1,0 +1,56 @@
+.sai{
+	font-weight: 800;
+	font-size: 60px;
+}
+body{
+	opacity: .7;
+    background-color: black;
+    border:6px solid white;
+    border-radius: 20px;
+
+}
+.head{
+	color:white;
+	text-align: center;
+}
+.player1{
+	font-size: 3vw;
+	text-align: left;
+	padding-right: 750px;
+}
+a
+{
+ color: white;
+}
+/*.s1:hover{
+	background-color: green;
+	font-size: 2vw;
+}
+.s2:hover{
+	background-color: green;
+	font-size: 2vw;
+}
+.s3:hover{
+	background-color: green;
+	font-size: 2vw;*/
+
+h3{
+text-align:center;
+color:green;
+
+}
+img
+{
+	width:50%;
+	height:50%;
+	margin:0 25%;
+
+}
+.more{
+	font-size: 3vw;
+	color:gold;
+}
+h2{
+	color:white;
+	text-align:center;
+}
